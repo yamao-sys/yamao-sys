@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 - TypeScript, React, Go and Rails are my strong points
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=yamao-sys&count_private=true&show_icons=true&theme=dracula" />
+    <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamao-sys&langs_count=5&theme=dracula&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamao-sys&langs_count=5&theme=dracula&layout=compact" />
+    <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=yamao-sys&count_private=true&show_icons=true&theme=dracula&layout=compact" />
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yamao-sys&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
