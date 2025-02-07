@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - full stack web developer
-- I use mainly TypeScript, React, Go and Rails
+- I use mainly TypeScript, React, Go and Ruby
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamao-sys&langs_count=5&theme=dracula&layout=compact" />
