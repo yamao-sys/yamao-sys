@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- full stack web developer
+- software developer
 - I use mainly TypeScript, React, Go and Ruby
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
