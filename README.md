@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- software developer
+- software engineer
 - I use mainly TypeScript, React, Go and Ruby
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
