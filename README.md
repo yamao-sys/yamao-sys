@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=yamao-sys&count_private=true&show_icons=true&theme=dracula&layout=compact" />
 </a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=yamao-sys&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=yamao-sys&column=10&theme=dracula&no-frame=true"/>
+</a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yamao-sys&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
