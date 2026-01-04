@@ -21,4 +21,3 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=yamao-sys&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YukiOnishi1129&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
