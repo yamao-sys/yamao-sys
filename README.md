@@ -18,10 +18,7 @@ Here are some ideas to get you started:
 - software engineer
 - I use mainly TypeScript, React, Go and Ruby
 
-<img align="left" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamao-sys&langs_count=5&theme=dracula&layout=compact" />
-<img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=yamao-sys&count_private=true&show_icons=true&theme=dracula&layout=compact" />
-[![trophy](https://github-profile-trophy.vercel.app/?username=yamao-sys&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yamao-sys&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=YukiOnishi1129&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
